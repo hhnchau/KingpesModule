@@ -31,3 +31,7 @@ dependencies {
     testImplementation 'junit:junit:4.12'
 
 }
+
+//Android Library -> New Module to create a new Android Library
+//Gradle->Drop down library name -> tasks-> build-> assemble or assemble release
+//AAR will be generated in build/outputs/aar/
